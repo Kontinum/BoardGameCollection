@@ -6,10 +6,10 @@ With this project user can search for board games, add them to collection, log p
 
 ## Used packages and libraries
 
-[Json Server](https://www.npmjs.com/package/json-server) - NPM library to simulate REST Api
-[xml-js](https://www.npmjs.com/package/xml-js) - NPM library to convert XML to JSON
-[Vue Toastification](https://vue-toastification.maronato.dev/) - for displaying toast notifications
-[Prime icons](https://primeng.org/icons) - for icons
+[Json Server](https://www.npmjs.com/package/json-server) - NPM library to simulate REST Api <br />
+[xml-js](https://www.npmjs.com/package/xml-js) - NPM library to convert XML to JSON <br />
+[Vue Toastification](https://vue-toastification.maronato.dev/) - for displaying toast notifications <br />
+[Prime icons](https://primeng.org/icons) - for icons <br />
 [Vue spinner](https://github.com/greyby/vue-spinner) - for loading spinner
 
 ## Used API
