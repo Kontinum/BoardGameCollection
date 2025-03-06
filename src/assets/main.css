@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: headerLogoFont;
+    src: url('@/assets/komika_shadow.ttf');
+}
+
+
+@font-face {
+    font-family: navLinkFont;
+    src: url('@/assets/happy_font.ttf');
+}
+
+.headerText {
+    font-family: 'headerLogoFont', serif;
+}
+
+.navLinks, .homeText, .infoLink {
+    font-family: 'navLinkFont', serif;
+}
