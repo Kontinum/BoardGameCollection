@@ -40,7 +40,7 @@ Delete board game
 ![Info page delete](images/delete.png)
 
 Logged plays page
-![Logged plays page](images/logged plays.png)
+![Logged plays page](images/loggedplays.png)
 
 
 ## Customize configuration
