@@ -16,6 +16,17 @@ With this project user can search for board games, add them to collection, log p
 
 [BoardGameGeek XML API 2](https://boardgamegeek.com/wiki/page/BGG_XML_API2#) - to search for board games
 
+## Images
+
+![Index page](images/index.png)
+![Search page](images/search.png)
+![Collection page](images/collection.png)
+![Collection 2 page](images/collection2.png)
+![Info page](images/info.png)
+![Info page log play](images/logplay.png)
+![Info page delete](images/delete.png)
+![Logged plays page page](images/logged plays.png)
+
 
 ## Customize configuration
 
