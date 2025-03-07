@@ -18,14 +18,29 @@ With this project user can search for board games, add them to collection, log p
 
 ## Images
 
+Index
 ![Index page](images/index.png)
+
+Search
 ![Search page](images/search.png)
+
+Collection
 ![Collection page](images/collection.png)
+
+Collection 2
 ![Collection 2 page](images/collection2.png)
+
+Info page
 ![Info page](images/info.png)
+
+Log play
 ![Info page log play](images/logplay.png)
+
+Delete board game
 ![Info page delete](images/delete.png)
-![Logged plays page page](images/logged plays.png)
+
+Logged plays page
+![Logged plays page](images/logged plays.png)
 
 
 ## Customize configuration
